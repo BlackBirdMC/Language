@@ -1,0 +1,18 @@
+{
+    "Type": "English",
+    "server": {
+        "server-listening": "Currently listening at %ip:%port.",
+        "server-loading": "Loading all server resources...",
+        "server-loaded": "All server resources loaded successfully.",
+        "server-enabled": "Server initialization complete (%time%)s!",
+        "server-closed": "Server has been stopped.",
+        "server-hard-crashed": "It seems like the server had a service error, couldn't function anymore, and crashed.", 
+        "server-error": "It seems like the server had a small error, so we are ignoring it."
+    },
+    "plugins": {
+        "plugins-loading": "Plugins are now loading.",
+        "plugins-enabled": "Enabling this %plu (%ver).",
+        "plugins-disabled": "Disabling %plu (%ver).",
+        "plugins-loaded": "All working plugins have been enabled."
+    }
+}
