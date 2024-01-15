@@ -4,7 +4,7 @@
         "server-listening": "Currently listening at %ip:%port.",
         "server-loading": "Loading all server resources...",
         "server-loaded": "All server resources loaded successfully.",
-        "server-enabled": "Server initialization complete (%time%)s!",
+        "server-enabled": "Server done in (%time%)s!",
         "server-closed": "Server has been stopped.",
         "server-hard-crashed": "It seems like the server had a service error, couldn't function anymore, and crashed.", 
         "server-error": "It seems like the server had a small error, so we are ignoring it."

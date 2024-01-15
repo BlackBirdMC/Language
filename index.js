@@ -8,10 +8,10 @@ function language(languageName) {
     return cache.get(languageName);
   }
 
-  const filePath = path.join(__dirname, "lang", `${languageName}.json`);
+  const filePath = path.join(__dirname, "languages", `${languageName}.json`);
 
   if (!fs.existsSync(filePath)) {
-    return "404";
+    return "not found";
   }
 
   const data = fs.readFileSync(filePath, "utf-8");
