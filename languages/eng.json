@@ -11,8 +11,8 @@
     },
     "plugins": {
         "plugins-loading": "Plugins are now loading.",
-        "plugins-enabled": "Enabling this %plu (%ver).",
+        "plugins-enabled": "Enabling %plu (%ver).",
         "plugins-disabled": "Disabling %plu (%ver).",
-        "plugins-loaded": "All working plugins have been enabled."
+        "plugins-loaded": "Plugins have been enabled."
     }
 }
